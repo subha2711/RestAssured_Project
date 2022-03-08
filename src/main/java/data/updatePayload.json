@@ -1,0 +1,6 @@
+{
+"name" : "Java book by AP",
+ "price" : "1", 
+ "description" : "The best book for amazing programmers.", 
+ "category_id" : 6
+}
